@@ -1,0 +1,86 @@
+{
+  "totalStudents": 4,
+  "overallAverageGrade": 92.08333333333333,
+  "topPerformingStudent": {
+    "id": 4,
+    "name": "Cleo Mae Locton",
+    "year": 3,
+    "course": "BECED",
+    "enrolled": true,
+    "averageGrade": 96.33333333333333
+  },
+  "breakdownByCourse": {
+    "BSIT": [
+      {
+        "id": 1,
+        "name": "Juan Dela Cruz",
+        "year": 2,
+        "course": "BSIT",
+        "grades": [
+          85,
+          90,
+          88
+        ],
+        "enrolled": false
+      },
+      {
+        "id": 3,
+        "name": "John Therence",
+        "year": 3,
+        "course": "BSIT",
+        "grades": [
+          92,
+          90,
+          95
+        ],
+        "enrolled": true
+      }
+    ],
+    "BSCS": [
+      {
+        "id": 2,
+        "name": "Maria Santos",
+        "year": 1,
+        "course": "BSCS",
+        "grades": [
+          92,
+          89,
+          95
+        ],
+        "enrolled": true
+      }
+    ],
+    "BECED": [
+      {
+        "id": 4,
+        "name": "Cleo Mae Locton",
+        "year": 3,
+        "course": "BECED",
+        "grades": [
+          96,
+          98,
+          95
+        ],
+        "enrolled": true
+      }
+    ]
+  },
+  "enrolledVsNotEnrolled": {
+    "enrolled": 3,
+    "notEnrolled": 1
+  },
+  "averageGradeByCourse": [
+    {
+      "course": "BECED",
+      "averageGrade": 96.33333333333333
+    },
+    {
+      "course": "BSCS",
+      "averageGrade": 92
+    },
+    {
+      "course": "BSIT",
+      "averageGrade": 90
+    }
+  ]
+}

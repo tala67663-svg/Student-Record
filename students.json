@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Juan Dela Cruz",
+    "year": 2,
+    "course": "BSIT",
+    "grades": [85, 90, 88],
+    "enrolled": false
+  },
+  {
+    "id": 2,
+    "name": "Maria Santos",
+    "year": 1,
+    "course": "BSCS",
+    "grades": [92, 89, 95],
+    "enrolled": true
+  },
+  {
+    "id": 3,
+    "name": "John Therence",
+    "year": 3,
+    "course": "BSIT",
+    "grades": [92, 90, 95],
+    "enrolled": true
+  },
+    {
+    "id": 4,
+    "name": "Cleo Mae Locton",
+    "year": 3,
+    "course": "BECED",
+    "grades": [96, 98, 95],
+    "enrolled": true
+  }
+]
